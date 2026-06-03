@@ -1,0 +1,9 @@
+User Name: Saurabh
+
+Submitted: 2026-06-03T17:46:22.101+02:00
+
+Description:
+Company-wide system outage. VPN is not working and entire company system is down. User unable to access network and install n8n due to outage.
+
+Status: Open
+Prio: Urgent
